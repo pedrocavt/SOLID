@@ -1,0 +1,16 @@
+{
+    "name": "pedro/app_carrinho_de_compras",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Pedro Vitor",
+            "email": "pedrocavt@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
